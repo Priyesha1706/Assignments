@@ -1,41 +1,14 @@
 library("twitteR")
-## Warning: package 'twitteR' was built under R version 3.5.1
 library("ROAuth")
-## Warning: package 'ROAuth' was built under R version 3.5.1
 library(base64enc)
 library(httpuv)
-## Warning: package 'httpuv' was built under R version 3.5.1
 library(tm)
-## Warning: package 'tm' was built under R version 3.5.1
-## Loading required package: NLP
-## Warning: package 'NLP' was built under R version 3.5.1
 library(wordcloud)
-## Warning: package 'wordcloud' was built under R version 3.5.1
-## Loading required package: RColorBrewer
 library(wordcloud2)
 library(syuzhet)
-## Warning: package 'syuzhet' was built under R version 3.5.1
 library(lubridate)
-## Warning: package 'lubridate' was built under R version 3.5.1
-## 
-## Attaching package: 'lubridate'
-## The following object is masked from 'package:base':
-## 
-##     date
 library(ggplot2)
-## Warning: package 'ggplot2' was built under R version 3.5.1
-## 
-## Attaching package: 'ggplot2'
-## The following object is masked from 'package:NLP':
-## 
-##     annotate
 library(scales)
-## Warning: package 'scales' was built under R version 3.5.1
-## 
-## Attaching package: 'scales'
-## The following object is masked from 'package:syuzhet':
-## 
-##     rescale
 library(reshape2)
 library(dplyr)
 
